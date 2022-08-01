@@ -1,0 +1,1 @@
+import{k as o,a as n,n as a,z as r,x as _}from"./index.da7f9356.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const p={setup(){const e=o();return{systemConfig:n(()=>e.state.config)}}};function m(e,t,i,s,f,u){return a(),r("h1",null,"\u6B22\u8FCE\u4F7F\u7528"+_(s.systemConfig.name),1)}var g=c(p,[["render",m],["__scopeId","data-v-5088e51c"]]);export{g as default};
